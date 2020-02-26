@@ -5,7 +5,7 @@
 
 ### 1. 3D Cube
 
-![Arwing](assets\cube.png)
+![Arwing](assets/cube.png)
 
 ```bat
 @sym xy
@@ -20,7 +20,7 @@ l 1 1, .5 .5,   #1f5
 
 ### 2. Star Fox Arwing
 
-![Arwing](assets\ship.png)
+![Arwing](assets/ship.png)
 
 ```bat
 @sym y
