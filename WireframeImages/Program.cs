@@ -155,7 +155,7 @@ namespace WireframeImages
                     }
                     else if (l[0] == 'r' && l[1] == ' ')
                     {
-                        // Triangle
+                        // Rectangle
                         string[] tokens = l.Substring(2).Split(',');
                         if (tokens.Length >= 4)
                         {
