@@ -1,6 +1,8 @@
 # Wireframe Images
  A file format for rendering wireframe images.
 
+Got to [downloads](#download).
+
 ## Examples
 
 ### 1. Cube
@@ -86,5 +88,7 @@ All extra spaces are ignored. Everything is case-insensitive.
 
 ## Download
 
-#### [Download Binary (.exe)]()
+| Platform (OS) | Link                                                         |
+| ------------- | ------------------------------------------------------------ |
+| Windows x64   | [binary (.exe)](https://github.com/WilliamRagstad/WireframeImages/raw/master/WireframeImages/binary/WireframeImages.exe) |
 
