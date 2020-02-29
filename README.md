@@ -3,7 +3,7 @@
 
 ## Examples
 
-### 1. 3D Cube
+### 1. Cube
 
 ![Arwing](assets/cube.png)
 
