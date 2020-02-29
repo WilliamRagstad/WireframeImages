@@ -90,5 +90,5 @@ All extra spaces are ignored. Everything is case-insensitive.
 
 | Platform (OS) | Link                                                         |
 | ------------- | ------------------------------------------------------------ |
-| Windows x64   | [binary (.exe)](https://github.com/WilliamRagstad/WireframeImages/raw/master/WireframeImages/binary/WireframeImages.exe) |
+| Windows x64   | [binary.zip](https://github.com/WilliamRagstad/WireframeImages/raw/master/WireframeImages/binary/binary.zip) |
 
