@@ -57,6 +57,7 @@ l 266 118, 1580 287, gray
 WireframeImages.exe [file] [sizeW] [sizeH] [output] (scale) (offsetX) (offsetY) (brushW)
 
   - sizeW & sizeH is the dimensions of the output image.
+  - output filename (`.png`).
   - scale of object.
   - brushW is the width of each wireframe line.
 ```
