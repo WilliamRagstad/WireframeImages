@@ -1,7 +1,9 @@
 # Wireframe Images
  A file format for rendering wireframe images.
 
-Got to [downloads](#download).
+>  ![https://img.shields.io/badge/Version-1.0%20Alpha-lime](https://img.shields.io/badge/Version-1.0 Alpha-lime)
+>
+> [Download Now](#download)!
 
 ## Examples
 
@@ -87,6 +89,10 @@ All extra spaces are ignored. Everything is case-insensitive.
 
 
 ## Download
+
+Requirements:
+
+- .NET Core > 3.1
 
 | Platform (OS) | Link                                                         |
 | ------------- | ------------------------------------------------------------ |
