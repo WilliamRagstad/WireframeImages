@@ -1,7 +1,7 @@
 # Wireframe Images
  A file format for rendering wireframe images.
 
->  ![https://img.shields.io/badge/Version-1.0%20Alpha-lime](https://img.shields.io/badge/Version-1.0 Alpha-lime)
+>  ![https://img.shields.io/badge/Version-1.0%20Alpha-lime](https://img.shields.io/badge/Version-1.0%20Alpha-lime)
 >
 > [Download Now](#download)!
 
